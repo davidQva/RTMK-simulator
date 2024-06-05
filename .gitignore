@@ -1,0 +1,9 @@
+# Exclude all .dep files
+*.dep
+
+# Exclude Debug directory
+Debug/
+
+# Exclude system-specific IDE files
+*.ewd
+*.ewt

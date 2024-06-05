@@ -1,0 +1,63 @@
+# ninja log v5
+1	497	7000891790000000	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/kernel_functions.xcl	f33bbb3f06e14c29
+28	524	7000891790000000	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/mailbox_functions.xcl	175a5bec3f0bae55
+553	722	7000891800778531	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/system_sam3x.pbi	8c22eade0adce254
+1	265	7002431395184951	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/main.pbi	6efb5fa297fead1c
+38	536	7000891790000000	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/startup_sam3x.xcl	452e7374169f2605
+53	548	7000891790000000	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/system_sam3x.xcl	8f9b867f586ede9d
+47	463	7000891790000000	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/main.xcl	b9bd01a26596f96d
+33	511	7000891790000000	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/exceptions.xcl	8e91768c75ef919d
+517	586	7000891799408206	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/exceptions.pbi	8ae7b894a958f2a5
+2	61	7002429921067325	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/mailbox_functions.pbi	53eb05ed7e25a25a
+2	180	7002391512143302	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/kernel_functions.pbi	2f0e0b33f55fc7ba
+542	737	7000891800938559	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/startup_sam3x.pbi	6a5df923c6443ede
+268	329	7002431395835100	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	7150e2c7b4da1285
+183	246	7002391512803434	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part0.pbi	aa294d89451124b2
+740	816	7000891801738726	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part2.pbi	8b31dd40c5a0c449
+333	425	7002431396805319	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	f4e61b18fa7a1656
+430	1435	7002431406572722	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	2656dab5c165ebf7
+1	55	7002434176379728	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/mailbox_functions.pbi	53eb05ed7e25a25a
+58	116	7002434176999869	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	7150e2c7b4da1285
+119	210	7002434177940177	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	f4e61b18fa7a1656
+214	1190	7002434187292288	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	2656dab5c165ebf7
+1	59	7002434591310589	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/mailbox_functions.pbi	53eb05ed7e25a25a
+62	121	7002434591918824	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	7150e2c7b4da1285
+124	216	7002434592876604	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	f4e61b18fa7a1656
+2	981	7002434653693954	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	2656dab5c165ebf7
+1	178	7002437173198151	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/mailbox_functions.pbi	53eb05ed7e25a25a
+181	245	7002437173868384	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	7150e2c7b4da1285
+248	349	7002437174918547	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	f4e61b18fa7a1656
+353	1342	7002437184502955	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	2656dab5c165ebf7
+1	171	7002437992185502	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/main.pbi	6efb5fa297fead1c
+173	237	7002437992845659	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	7150e2c7b4da1285
+240	342	7002437993895887	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	f4e61b18fa7a1656
+346	1328	7002438003298095	C:/Users/ckokk/Desktop/CSE_2/LAB 3 2002 2140/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	2656dab5c165ebf7
+482	1443	7003563330000000	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/main.xcl	b7acd8c60f547e02
+492	1472	7003563330000000	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/kernel_functions.xcl	f132fb577df5f416
+487	1481	7003563330000000	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/mailbox_functions.xcl	6641c3d76682e7b1
+498	1489	7003563330000000	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/startup_sam3x.xcl	12d971b2f043f0c1
+504	1499	7003563330000000	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/system_sam3x.xcl	ab63171f663e74c
+1485	1553	7003563335564646	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/mailbox_functions.pbi	befb45e1a11cc423
+1494	1660	7003563336644810	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/startup_sam3x.pbi	39f00aaee2fe122b
+1476	1663	7003563336664817	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/kernel_functions.pbi	171034b70113e869
+1447	1665	7003563336684827	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/main.pbi	db42b9f45a8e68ff
+1503	1693	7003563336734836	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/system_sam3x.pbi	6444633f30404751
+1668	1745	7003563337495097	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	decfa4c8a17dca5d
+1695	1767	7003563337715139	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part2.pbi	d9e9159fbc35006a
+1	2899	7003563340000000	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/exceptions.xcl	222565da7c272026
+2903	3046	7003563350503598	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/exceptions.pbi	eb5274ed16ec71a7
+3048	3102	7003563351063731	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part0.pbi	95b6dfdd4951d1ae
+3106	3203	7003563352073955	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	9328c1a5acca1d19
+3207	5193	7003563371664708	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	fa3643c7e0ba63c7
+1	268	7003566092542249	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/main.pbi	db42b9f45a8e68ff
+270	325	7003566093132302	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	decfa4c8a17dca5d
+328	421	7003566094082501	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	9328c1a5acca1d19
+424	1373	7003566103272515	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	fa3643c7e0ba63c7
+1	163	7003566810025278	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/main.pbi	db42b9f45a8e68ff
+165	228	7003566810685430	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	decfa4c8a17dca5d
+230	330	7003566811705655	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	9328c1a5acca1d19
+2	1042	7003566877457867	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	fa3643c7e0ba63c7
+1	165	7003567382868578	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/main.pbi	db42b9f45a8e68ff
+167	226	7003567383488720	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17_part1.pbi	decfa4c8a17dca5d
+229	327	7003567384499033	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbd	9328c1a5acca1d19
+1	973	7003567451433526	C:/Users/ckokk/Desktop/bbbb/CSE2_Gr17/Debug/BrowseInfo/CSE2_Gr17.pbw	fa3643c7e0ba63c7
