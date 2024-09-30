@@ -3,7 +3,21 @@
 
 # Exclude Debug directory
 Debug/
-
+settings/
 # Exclude system-specific IDE files
 *.ewd
 *.ewt
+at91sam3x8.h
+*.s
+*.eww
+*.user
+*.ncb
+*.aps
+*.opensdf
+core_cm3.h
+core_cmFunc.h
+core_cmInstr.h
+*.dep
+startup_sam3x.c
+system_sam3x.c
+system_sam3x.h
